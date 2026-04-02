@@ -54,7 +54,7 @@ Certified Professional in **Computing and Informatics** (Cibertec) with a hybrid
 | Institution | Achievement / Degree | Evidence |
 | :--- | :--- | :--- |
 | **Cibertec** | Computing and Informatics Professional (Technical Degree) | [**Verify on LinkedIn**](https://www.linkedin.com/in/richard-ericksson-quispe-chavez-975b81183/details/education/) |
-| **Udemy** | Power BI - Data Analysis & Business Intelligence | [**View official certificate**]([https://www.linkedin.com/in/richard-ericksson-quispe-chavez-975b81183/details/certifications/](https://www.udemy.com/certificate/UC-0e2518dc-0dfb-4b4b-be74-649d2f03aa5c/)) |
+| **Udemy** | Power BI - Data Analysis & Business Intelligence | [**View official certificate**](https://www.udemy.com/certificate/UC-0e2518dc-0dfb-4b4b-be74-649d2f03aa5c/) |
 
 > [!IMPORTANT]
 > Professional degree is **Apostilled (Hague Convention)** and officially registered with **MINEDU**, ensuring international validity for global roles.
