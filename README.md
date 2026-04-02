@@ -1,7 +1,12 @@
 # Hi there! 👋 I'm Richard Quispe
 
-### 🚀 Full Stack Developer | .NET, Java & Data Specialist
-Certified Professional in **Computing and Informatics (Cibertec 2024)** with a focus on building scalable web applications and data-driven solutions.
+### 🚀 Bridging the gap between Software Development & Data Intelligence
+
+Certified Professional in **Computing and Informatics** (Cibertec) with a hybrid profile. I specialize in building secure, scalable applications and transforming raw data into actionable business insights.
+
+- **💻 Backend Enthusiast:** Expert in secure architectures with **Java (JWT/Spring Security)** and **.NET 8 Microservices**.
+- **📊 Data Driven:** Power user of **Excel VBA** and **Power BI (DAX)** to automate complex corporate processes.
+- **🌐 Frontend:** Crafting responsive UIs with **Angular** and **React**.
 
 ---
 
