@@ -24,7 +24,7 @@ Certified Professional in **Computing and Informatics (Cibertec 2024)** with a f
 
 ### 📌 Featured Projects
 - **[Korp Technical Challenge](https://github.com/RichardCode1997/Korp_Teste_RichardQuispe):** Billing & Inventory system using Microservices (.NET 8) and Angular 17.
-- **[Talent Management API](https://github.com/RichardCode1997/TalentManagement-Backend):** Java 17 Backend with Spring Boot 3 & Spring Security (JWT).
+- **[Talent Management API](https://github.com/RichardCode1997/gestion-talento-backend):** Java 17 Backend with Spring Boot 3 & Spring Security (JWT).
 
 ---
 
@@ -35,5 +35,5 @@ Certified Professional in **Computing and Informatics (Cibertec 2024)** with a f
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Insert your profile link here]
+- **LinkedIn:** www.linkedin.com/in/richard-ericksson-quispe-chavez-975b81183
 - **Location:** Lima, Peru 🇵🇪
