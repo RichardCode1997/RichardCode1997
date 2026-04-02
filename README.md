@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there! 👋 I'm Richard Quispe
 
-<!--
-**RichardCode1997/RichardCode1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | .NET, Java & Data Specialist
+Certified Professional in **Computing and Informatics (Cibertec 2024)** with a focus on building scalable web applications and data-driven solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+
+**Backend Development**
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) **Spring Boot** (Spring Security + JWT Authentication)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) **.NET 8** (ASP.NET Core, Microservices)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) **Laravel**
+
+**Frontend Development**
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) **JavaScript / TypeScript**
+
+**Data & Analytics**
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) **VBA Automation**
+- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) **DAX Analysis**
+- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) **MySQL / Oracle**
+
+---
+
+### 📌 Featured Projects
+- **[Korp Technical Challenge](https://github.com/RichardCode1997/Korp_Teste_RichardQuispe):** Billing & Inventory system using Microservices (.NET 8) and Angular 17.
+- **[Talent Management API](https://github.com/RichardCode1997/TalentManagement-Backend):** Java 17 Backend with Spring Boot 3 & Spring Security (JWT).
+
+---
+
+### 📊 GitHub Stats
+![Richard's Stats](https://github-readme-stats.vercel.app/api?username=RichardCode1997&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardCode1997&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [Insert your profile link here]
+- **Location:** Lima, Peru 🇵🇪
