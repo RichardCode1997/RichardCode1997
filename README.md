@@ -29,7 +29,9 @@ Certified Professional in **Computing and Informatics (Cibertec 2024)** with a f
 ---
 
 ### 📊 GitHub Stats
+
 ![Richard's Stats](https://github-readme-stats.vercel.app/api?username=RichardCode1997&show_icons=true&theme=tokyonight&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardCode1997&layout=compact&theme=tokyonight)
 
 ---
