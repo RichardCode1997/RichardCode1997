@@ -25,7 +25,8 @@ Certified Professional in **Computing and Informatics** (Cibertec) with a hybrid
 
 ### 📌 Featured Projects
 - **[Korp Technical Challenge](https://github.com/RichardCode1997/Korp_Teste_RichardQuispe):** Billing & Inventory system using Microservices (.NET 8) and Angular 17.
-- **[Talent Management API](https://github.com/RichardCode1997/gestion-talento-backend):** Java 17 Backend with Spring Boot 3 & Spring Security (JWT).
+- **[Gestión Talento Backend](https://github.com/RichardCode1997/gestion-talento-backend):** Java 17 Backend with Spring Boot 3 & Spring Security (JWT).
+- **[Ventas e Instalaciones Win Negocios](https://github.com/RichardCode1997/Ventas-e-Instalaciones):** Business Intelligence solution using Power BI for commission tracking and operational feedback on customer lifecycle.
 
 ---
 
