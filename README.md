@@ -28,6 +28,7 @@ Certified Professional in **Computing and Informatics** (Cibertec) with a hybrid
 - **[Gestión Talento Backend](https://github.com/RichardCode1997/gestion-talento-backend):** Java 17 Backend with Spring Boot 3 & Spring Security (JWT).
 - **[Ventas e Instalaciones Win Negocios](https://github.com/RichardCode1997/Ventas-e-Instalaciones):** Business Intelligence solution using Power BI for commission tracking and operational feedback on customer lifecycle.
 - **[Gestion Comercial ULTRA](https://github.com/RichardCode1997/Gestion-Comercial-ULTRA):** Strategic Power BI dashboard to track KAM performance and Ultra MPLS growth. Features a DAX engine for sales velocity, conversion ratios, and real-time monitoring of the commercial funnel.
+- **[Myper-Frontend](https://github.com/RichardCode1997/Myper-Frontend):** Vue.js 3 SPA with full User CRUD, REST API integration, Navigation Guards and responsive CSS-only design. Built for MYPER Software's Frontend technical assessment.
 
 ---
 
